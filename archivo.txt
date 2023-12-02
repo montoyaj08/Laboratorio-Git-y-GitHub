@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 
 print('Hola mundo')
-nombre = input('Ingresa nombre: '
+nombre = input('Ingresa nombre: ')
 
